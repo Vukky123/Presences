@@ -1,0 +1,28 @@
+{
+  "author": {
+    "name": "Vukky",
+    "id": "708333380525228082"
+  },
+  "service": "Neopets",
+  "description": {
+    "en": "Virtual Pet Community! Join up for free games, shops, auctions, chat and more!"
+  },
+  "url": "www.neopets.com",
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/5faC8XK.jpg",
+  "thumbnail": "https://i.imgur.com/emAVbHU.png",
+  "color": "#000000",
+  "tags": [
+    "pets",
+    "webgame",
+    "gaming"
+  ],
+  "category": "games",
+  "settings": [
+    {
+      "id": "example",
+      "title": "Example",
+      "value": true
+    }
+  ]
+}

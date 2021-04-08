@@ -20,8 +20,9 @@
   "category": "games",
   "settings": [
     {
-      "id": "example",
-      "title": "Example",
+      "id": "buttons",
+      "title": "Show Buttons",
+      "icon": "fas fa-compress-arrows-alt",
       "value": true
     }
   ]
